@@ -28,13 +28,15 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=laravel,codeigniter,flutter,nodejs,react,mysql,azure,firebase,js,jquery,css,html,github,postman)](https://skillicons.dev) -->
 
 ### 📊 Most Used Languages
-<!-- ![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true)
-![Deny's GitHub stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true) -->
+
+![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=denylajor&theme=radical)](https://git.io/streak-stats)
 
 ### 📈 Contribution Graph
-[![Deny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=denylajor&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
