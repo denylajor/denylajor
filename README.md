@@ -40,3 +40,7 @@
 ### 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+### 📈 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denylajor&theme=github_dark)
