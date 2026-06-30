@@ -28,5 +28,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=laravel,codeigniter,flutter,nodejs,react,mysql,azure,firebase,js,jquery,css,html,github,postman)](https://skillicons.dev) -->
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true)
-![Deny's GitHub stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true)
+![Deny's GitHub stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=denylajor&show_icons=true&theme=radical)
