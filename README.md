@@ -29,5 +29,6 @@
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true&include_all_commits=true)
-![Deny's GitHub Stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true)
+
+![Deny's GitHub stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true)
