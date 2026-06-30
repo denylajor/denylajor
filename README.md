@@ -36,7 +36,7 @@
 
 [![Deny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&bg_color=141321&color=f8d847&line=fe428e&point=a9fef7&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denylajor&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denylajor&theme=github_dark)
 
 <!-- ### 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph) --!>
