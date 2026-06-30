@@ -32,3 +32,7 @@
 ![Top Langs](https://github-readme-stats-rosy-three-96.vercel.app/api/top-langs/?username=denylajor&layout=compact&theme=radical&count_private=true)
 
 ![Deny's GitHub stats](https://github-readme-stats-rosy-three-96.vercel.app/api?username=denylajor&show_icons=true&theme=radical&count_private=true)
+
+### 📈 Contribution Graph
+
+[![Deny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denylajor&bg_color=141321&color=f8d847&line=fe428e&point=a9fef7&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
